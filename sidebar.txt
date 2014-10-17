@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lss:home|Door43 (lss)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lss|d43-lss repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lss/archive/master.zip|d43-lss.zip]]
+
+**Recent Changes**
+{{changes>ns = lss}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lss|Ethnologue data]]
+
